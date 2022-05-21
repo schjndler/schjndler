@@ -8,8 +8,8 @@
 
 
 
-- 🔭 I’m a software engineer currently in Education
-- 🌱 I’m passionate about full stack web development, and educational websites and applications - but focusing on the frontend.
+- 🔭 I’m a software engineer focusing on the frontend.
+- 🌱 I’m passionate about full stack web development, and educational websites and applications!
 - 💬 Ask me me anything, DM's open!
 
 
