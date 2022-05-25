@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom Schindler</h1>
-<h3 align="center">A passionate Software Engineer from Germany</h3>
+<h3 align="center">Software Engineer from Germany</h3>
 
 
 <p align="center"> <a href="https://twitter.com/schjndlertom" target="blank"><img src="https://img.shields.io/twitter/follow/schjndlertom?logo=twitter&style=for-the-badge" alt="schjndlertom" /></a> </p>
