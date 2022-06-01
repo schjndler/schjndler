@@ -7,9 +7,8 @@
 
 
 
-
-- 🔭 I’m a software Engineer focusing on the frontend.
 - 🌱 I’m passionate about full stack web development, and educational websites and applications!
+- 🔭 Currently im focused on Front-End development!
 - 💬 Ask me me anything, DM's open!
 
 
