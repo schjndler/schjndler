@@ -1,15 +1,20 @@
-<h1 align="center">Hi 👋, I'm Tom Schindler</h1>
-<h3 align="center">Software Engineer from Germany</h3>
+<h1 align="center">Hi 👋, I'm Tom Schindler!</h1>
+
+<div align="center">
+<img src="https://pbs.twimg.com/profile_banners/1514876838014820353/1652807108/1500x500" align="center" style="width: 80%" />
+</div>  
+<br />
 
 
 <p align="center"> <a href="https://twitter.com/schjndlertom" target="blank"><img src="https://img.shields.io/twitter/follow/schjndlertom?logo=twitter&style=for-the-badge" alt="schjndlertom" /></a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=schjndler&label=Profile%20views&color=0e75b6&style=flat" alt="schjndler" /> </p>
 
 
+<h2>Information</h2>
 
-- 🌱 I’m passionate about full stack web development, and educational websites and applications!
+
+- 🌱 I’m passionate about full stack web development, educational websites and applications!
 - 🔭 Currently im focused on Front-End development!
-- 💬 Ask me me anything, DM's open!
+- 💬 Ask me me anything, DM's open! 
 
 
 <h2>„The only way you are going to have success is to have lots of failures first.“ – Sergey Brin</h2>
@@ -30,6 +35,17 @@ I focus on frontend web development, but due to my 11 years of experience with P
 
 
 
+
+  <table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=schjndler&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schjndler&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
 <h2 align="center">Contact Me:
 <br>
 <a href="https://twitter.com/schjndlertom">
@@ -38,3 +54,4 @@ I focus on frontend web development, but due to my 11 years of experience with P
 <a href="https://github.com/schjndler">
   <img  alt="Schindler Toms Github" width="55px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=schjndler&label=Profile%20views&color=0e75b6&style=flat" alt="schjndler" /> </p>
