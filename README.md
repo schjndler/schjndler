@@ -14,7 +14,7 @@
 
 - 🌱 I’m passionate about full stack web development, educational websites and applications!
 - 🔭 Currently im focused on Front-End development!
-- 💬 Ask me me anything, DM's open! 
+- 💬 Feel free to ask me anything, my DM's are open! 
 
 
 <h2>„The only way you are going to have success is to have lots of failures first.“ – Sergey Brin</h2>
