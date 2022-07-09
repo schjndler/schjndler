@@ -13,7 +13,7 @@
 
 
 - 🌱 I’m passionate about full stack web development, educational websites and applications!
-- 🔭 Currently i am learning ReactJS and diving into C#.
+- 🔭 Currently i am learning diving more into JavaScript & ReactJS.
 - 💬 Feel free to ask me anything, my DM's are open! 
 
 
