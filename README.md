@@ -1,29 +1,34 @@
-<h1 align="center">Hi 👋, I'm <a href="https://card.schindlertom.com" target="blank">Tom Schindler!</a></h1>
-
+<h1 align="center">Hi <img src="https://media.giphy.com/media/vClCIr19RvnB9EoQtS/giphy.gif" height="30px" width="30px"> , I'm <a href="https://card.schindlertom.com" target="blank">Tom Schindler!</a></h1>
 <div align="center">
 
-</div>  
 <br />
-
 <p align="center"> <a href="https://twitter.com/schjndlertom" target="blank"><img src="https://img.shields.io/twitter/follow/schjndlertom?logo=twitter&style=for-the-badge" alt="schjndlertom" />
 
 </p>
 
 
-<h2>Information</h2>
+<h2>Information</h3>
 
-- 🌱 I’m passionate about full stack web development, educational websites and applications!
-- 💬 Feel free to ask me anything, my DM's are open on all social plattforms!
 
-<h2>„The only way you are going to have success is to have lots of failures first.“ – Sergey Brin</h2>
+ 🌱 I’m passionate about full stack web development, educational websites and applications!
+ <br />
+ 💬 Feel free to ask me anything, my DM's are open on all social plattforms!
+
+<h2>„You can run a sprint or your can run a marathon, but you can’t sprint a marathon.“</h2>
+
 
 <p>
+
+
 How are you supposed to know what you're going to do for the rest of your life when you're 15 years old after school? I didn't know - until now!
-  
+
+
 Before I started my adventure as a software developer, I tried my hand at social work, worked as a craftsman and now I'm here. This is where I will stay.
 I have already met and fallen in love with exciting frameworks, programming languages and applications on my journey that make life easier for me and others.
 
 I focus on frontend web development, but due to my 11 years of experience with PC's I have all the knowledge and I am sure, who knows how to use google, also knows how to solve problems.</p>
+
+
 
 <h1 align="center">Skills and Experience:</h1>
 <p>
@@ -48,3 +53,4 @@ I focus on frontend web development, but due to my 11 years of experience with P
   <img  alt="Schindler Toms Github" width="55px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=schjndler&label=Profile%20views&color=0e75b6&style=flat" alt="schjndler" /> </p>
+</div>  
