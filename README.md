@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Tom Schindler!</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://card.schindlertom.com" target="blank">Tom Schindler!</a></h1>
 
 <div align="center">
 
 </div>  
 <br />
 
-<p align="center"> <a href="https://twitter.com/schjndlertom" target="blank"><img src="https://img.shields.io/twitter/follow/schjndlertom?logo=twitter&style=for-the-badge" alt="schjndlertom" /></a> </p>
+<p align="center"> <a href="https://twitter.com/schjndlertom" target="blank"><img src="https://img.shields.io/twitter/follow/schjndlertom?logo=twitter&style=for-the-badge" alt="schjndlertom" />
+
+</p>
+
 
 <h2>Information</h2>
 
