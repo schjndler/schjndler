@@ -13,8 +13,7 @@
 <h2>Information</h2>
 
 - 🌱 I’m passionate about full stack web development, educational websites and applications!
-- 🔭 Currently i am learning diving more into JavaScript & ReactJS.
-- 💬 Feel free to ask me anything, my DM's are open!
+- 💬 Feel free to ask me anything, my DM's are open on all social plattforms!
 
 <h2>„The only way you are going to have success is to have lots of failures first.“ – Sergey Brin</h2>
 
