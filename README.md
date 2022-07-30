@@ -53,5 +53,9 @@ I focus on frontend web development, but due to my 11 years of experience with P
 <a href="https://github.com/schjndler">
   <img  alt="Schindler Toms Github" width="55px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://de.linkedin.com/in/schindlertom">
+  <img  alt="Schindler Toms Github" width="55px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=schjndler&label=Profile%20views&color=0e75b6&style=flat" alt="schjndler" /> </p>
 </div>  
