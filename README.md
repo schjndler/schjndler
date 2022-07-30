@@ -10,13 +10,10 @@
 
 <h2>Information</h3>
 
-
- 🌱 I’m passionate about full stack web development, educational websites and applications!
- <br />
  💬 Feel free to ask me anything, my DM's are open on all social plattforms!
  
  <h3>Currently working on:</h3>
-<p> My own Blog. 🌐 </p>
+<p> My own Blog. & Portfolio 🌐 </p>
 
 <h2>„You can run a sprint or your can run a marathon, but you can’t sprint a marathon.“</h2>
 
