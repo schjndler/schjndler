@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/vClCIr19RvnB9EoQtS/giphy.gif" height="30px" width="30px"> , I'm <a href="https://card.schindlertom.com" target="blank">Tom Schindler!</a></h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/vClCIr19RvnB9EoQtS/giphy.gif" height="30px" width="30px">, I'm <a href="https://card.schindlertom.com" target="blank">Tom Schindler!</a></h1>
 <div align="center">
 
  💬 Feel free to ask me anything, my DM's are open on all social plattforms!
