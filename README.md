@@ -1,15 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/vClCIr19RvnB9EoQtS/giphy.gif" height="30px" width="30px"> , I'm <a href="https://card.schindlertom.com" target="blank">Tom Schindler!</a></h1>
 <div align="center">
 
-
-<br />
-<p align="center"> <a href="https://twitter.com/schjndlertom" target="blank"><img src="https://img.shields.io/twitter/follow/schjndlertom?logo=twitter&style=for-the-badge" alt="schjndlertom" />
-
-</p>
-
-
-<h2>Information</h3>
-
  💬 Feel free to ask me anything, my DM's are open on all social plattforms!
  
  <h3>Currently working on:</h3>
