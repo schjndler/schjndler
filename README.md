@@ -10,8 +10,8 @@ Web developer and UI/UX designer passionate about tech.
 - 🛠️ Currently working on my new portfolio website.
 
 ## Skills
-- Languages: HTML, CSS, JavaScript, TypeScript, C#, Python
-- Frontend: React.js, ReactNative.js, Next.js, TailwindCSS, Bootstrap, Framer Motion, Three.js
+- Languages: JavaScript, TypeScript, C#, Python, HTML
+- Frontend: React.js, ReactNative.js, Next.js, TailwindCSS, Bootstrap, Framer Motion, Three.js, CSS, SASS
 - Backend: Node.js, Express.js
 - Databases: MySQL
 - CMS: WordPress, Sanity, Contentful
