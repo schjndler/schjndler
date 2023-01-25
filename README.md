@@ -25,6 +25,7 @@ Web developer and UI/UX designer passionate about tech.
 ## Contact
 - 📫 Mail: [info@schindlertom.com](mailto:info@schindlertom.com)
 - 🌐 Website: [schindlertom.com](https://schindlertom.com) 🚧
+- 🌐 Card-Website: [card.schindlertom.com](https://card.schindlertom.com) 🚧
 
 ## Socials
 - [Twitter](https://twitter.com/schjndlertom)
@@ -34,22 +35,4 @@ Web developer and UI/UX designer passionate about tech.
 
 <div align="center">
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=schjndler&label=Profile%20views&color=0e75b6&style=flat" alt="schjndler" /> </p>
-
-
- 
- <div align="center" style="text-align:center">
-  
-
- 
-</div>
- 
- 
- 
-
- 
-
-
- 
-
-
 </div>  
