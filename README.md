@@ -35,4 +35,7 @@ Web developer and UI/UX designer passionate about tech.
 
 <div align="center">
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=schjndler&label=Profile%20views&color=0e75b6&style=flat" alt="schjndler" /> </p>
+  
+  [![Tom Schindler Github Stats](https://github-readme-stats.vercel.app/api?username=schjndler&show_icons=true&theme=radical&count_private=true)](https://github.com/schjndler/)
+
 </div>  
