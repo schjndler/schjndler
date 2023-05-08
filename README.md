@@ -26,7 +26,7 @@ Web developer and UI/UX designer passionate about tech.
 
 ## Contact
 - 📫 Mail: [info@schindlertom.com](mailto:info@schindlertom.com)
-- 🌐 Website: [schindlertom.com](https://schindlertom.com) 🚧
+- 🌐 Website: [schindlertom.com](https://schindlertom.com) 
 - 🃏 Card-Website: [card.schindlertom.com](https://card.schindlertom.com)
 
 ## Socials
