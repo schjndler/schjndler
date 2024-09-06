@@ -30,8 +30,7 @@ Web developer and UI/UX designer passionate about tech.
 - 🃏 Card-Website: [card.schindlertom.com](https://card.schindlertom.com)
 
 ## Socials
-- [Twitter](https://twitter.com/schjndlertom)
-- [Instagram](https://twitter.com/schjndlertom)
+- [Twitter](https://twitter.com/schindlertom_)
 - [LinkedIn](https://de.linkedin.com/in/schindlertom)
 
 
