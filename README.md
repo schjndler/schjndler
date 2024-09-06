@@ -7,7 +7,7 @@ Web developer and UI/UX designer passionate about tech.
 - 👨‍💻 Designed and developed websites and web apps.
 - 🎓 Reapprenticeship IT Specialist Application Development in Nuernberg
 - 🌱 Learning more about technologies like Next.js, TailwindCSS, Framer Motion and Three.js.
-- 🛠️ Currently working on my new portfolio website.
+- 🛠️ Currently working at Chrobyte.
 
 ## Skills
 - Languages: JavaScript, TypeScript, C#, Python, HTML
